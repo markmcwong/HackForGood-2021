@@ -1,7 +1,7 @@
 
 ### Project for Hack for Good
 
-We are Langeration and here is the code for the prototype that we built for Hack for Good!!
+We are **_Langeration_** and here is the code for the prototype that we built for Hack for Good!!
 
 ## Steps to run project
 
